@@ -16,6 +16,5 @@ function myFunc() {
   
   const myVar = myFunc();
   myVar();
-/
-  🎉
+
   

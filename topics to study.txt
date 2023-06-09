@@ -1,0 +1,14 @@
+es5 vs es6
+es6 features (operators)
+loadash ( loadash and js strings and arrays)
+
+let const var vs..
+
+jquery basis
+
+javascript promisses
+The Symbol Type
+
+
+Array keys() vs enteries
+
