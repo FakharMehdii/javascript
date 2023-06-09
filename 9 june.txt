@@ -1,0 +1,79 @@
+/*
+
+ES5                 ES6
+var                 let, const 
+function(a,b){}     (a,b) => a+b
+
+OR operator for     = operator for default values
+defautl values
+
+arguments[]         spread operator (...)
+                    ... also expands the array
+
+
+-------------------------------------------------------
+
+ES5 features
+"use strict"
+String[number] access
+Multiline strings
+String.trim()
+Array.isArray()
+Array forEach()
+Array map()
+Array filter()
+Array reduce()
+Array reduceRight()
+Array every()
+Array some()
+Array indexOf()
+Array lastIndexOf()
+JSON.parse()
+JSON.stringify()
+Date.now()
+Date toISOString()
+Date toJSON()
+Property getters and setters
+Reserved words as property names
+Object methods
+Object defineProperty()
+Function bind()
+Trailing commas
+
+-------------------------------------------------------
+
+ES6 Features
+
+The let keyword
+The const keyword
+Arrow Functions
+The ... Operator
+For/of
+Map Objects
+Set Objects
+Classes
+Promises
+Symbol
+Default Parameters
+Function Rest Parameter
+String.includes()
+String.startsWith()
+String.endsWith()
+Array.from()
+Array keys()
+Array find()
+Array findIndex()
+New Math Methods
+New Number Properties
+New Number Methods
+New Global Methods
+Object entries
+JavaScript Modules
+
+--------------------------------------------
+
+Also Studeid the difference of JS and Jquery from w3school
+Did practice from w3school
+
+*/
+
